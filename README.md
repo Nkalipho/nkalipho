@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋, My name is Mthobisi Latha.
 
 Welcome to my GitHub profile! I'm passionate about technology, data, and innovation. Here's a little bit about me:
 
