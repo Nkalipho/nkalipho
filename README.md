@@ -2,7 +2,7 @@ Hi there 👋, My name is Mthobisi Latha.
 
 Welcome to my GitHub profile! I'm passionate about technology, data, and innovation. Here's a little bit about me:
 
-🔧 Currently Working On: End-to-end machine learning projects, including building neural networks and implementing machine learning algorithms like Naive Bayes and Gradient Boosting Machines. I'm also exploring computer vision tasks with datasets like the Chinese MNIST.
+🔧 Currently Working On: End-to-end machine learning projects, including building neural networks and implementing machine learning algorithms like Naive Bayes and Gradient Boosting Machines. I'm also exploring computer vision tasks with datasets like the CIFAR-10 dataset.
 
 🌱 Currently Learning: Advanced deep learning concepts, data engineering pipelines, and hands-on projects using TensorFlow, PyTorch, and Keras. I'm also diving into the world of Recurrent Neural Networks (RNNs) and Large Language Models (LLMs).
 
